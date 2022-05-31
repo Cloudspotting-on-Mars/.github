@@ -1,6 +1,6 @@
-Welcome Martian cloudspotters!
-
 <img align="right" src="https://github.com/Cloudspotting-on-Mars.png" width="300">
+
+Welcome Martian cloudspotters!
 
 ## Announcements
 Official Zooniverse launch date:
