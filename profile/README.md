@@ -3,13 +3,13 @@
 Welcome Martian cloudspotters!
 
 ## Announcements
-Official Zooniverse launch date:
+Official Zooniverse launch date: **June 28th, 2022**
 
-First video get together: 
+First video get together: TBD
 
 ## About
-This is the landing spot for all aspects of the NASA Citizen Science Zooniverse project, [Cloudspotting on Mars](https://www.zooniverse.org/projects/marek-slipski/cloudspotting-on-mars
-). We'll update the **Announcements** section with important dates and upcoming events. You can also join our newsletter to get updates sent to your inbox. It hosts a repository for our blog and one for analyzing the identified arches.
+This is the landing spot for all aspects of the [Cloudspotting on Mars project](https://www.zooniverse.org/projects/marek-slipski/cloudspotting-on-mars
+), part of NASA Citizen Science and Zooniverse. We'll update the **Announcements** section with important dates and upcoming events. Join our newsletter to get updates sent to your inbox. See recent write-ups at the [blog](https://cloudspotting-on-mars.github.io). Start or join [a discussion](https://github.com/orgs/Cloudspotting-on-Mars/discussions) about the project. Check out our repositories for analyzing Mars Climate Sounder data and identified clouds. 
 
 ## Join Newsletter
 
