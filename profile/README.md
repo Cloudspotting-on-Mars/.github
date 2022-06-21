@@ -12,6 +12,7 @@ This is the landing spot for all aspects of the [Cloudspotting on Mars project](
 ), part of NASA Citizen Science and Zooniverse. We'll update the **Announcements** section with important dates and upcoming events. Join our newsletter to get updates sent to your inbox. See recent write-ups at the [blog](https://cloudspotting-on-mars.github.io). Start or join [a discussion](https://github.com/orgs/Cloudspotting-on-Mars/discussions) about the project. Check out our repositories for analyzing Mars Climate Sounder data and identified clouds. 
 
 ## Join Newsletter
+Send an email to [cloudspottingonmars@gmail.com](mailto:cloudspottingonmars@gmail.com) to get updates sent straight to your inbox.
 
 ## Blog
 Checkout the project's [blog posts](https://cloudspotting-on-mars.github.io)
