@@ -2,7 +2,7 @@
 
 Welcome Martian cloudspotters!
 
-The project is now live! Checkout it out at [https://www.zooniverse.org/projects/marek-slipski/cloudspotting-on-mars](https://www.zooniverse.org/projects/marek-slipski/cloudspotting-on-mars)!
+The project is now live! Check it out at [https://www.zooniverse.org/projects/marek-slipski/cloudspotting-on-mars](https://www.zooniverse.org/projects/marek-slipski/cloudspotting-on-mars)!
 
 ## Announcements
 Official Zooniverse launch date: **June 28th, 2022**
