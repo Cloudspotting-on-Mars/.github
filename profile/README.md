@@ -7,7 +7,7 @@ The project is now live! Check it out at [https://www.zooniverse.org/projects/ma
 ## Announcements
 Official Zooniverse launch date: **June 28th, 2022**
 
-First video get together: TBD
+First video get together: **Friday July 15th at 9am PT/12pm ET/4pm GMT**
 
 ## About
 This is the landing spot for all aspects of the [Cloudspotting on Mars project](https://www.zooniverse.org/projects/marek-slipski/cloudspotting-on-mars
