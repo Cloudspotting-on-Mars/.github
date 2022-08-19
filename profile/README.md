@@ -8,6 +8,7 @@ Official Zooniverse launch date: **June 28th, 2022**
 
 ## Announcements
 Next Webinar: **Friday August 26th at 9am PT/12pm ET**
+
 New blog post: https://cloudspotting-on-mars.github.io/firstupdate/
 
 ## About
