@@ -4,10 +4,11 @@ Welcome Martian cloudspotters!
 
 The project is now live! Check it out at [https://www.zooniverse.org/projects/marek-slipski/cloudspotting-on-mars](https://www.zooniverse.org/projects/marek-slipski/cloudspotting-on-mars)!
 
-## Announcements
 Official Zooniverse launch date: **June 28th, 2022**
 
-First video get together: **Friday July 15th at 9am PT/12pm ET/4pm GMT**
+## Announcements
+Next Webinar: **Friday August 26th at 9am PT/12pm ET**
+New blog post: https://cloudspotting-on-mars.github.io/firstupdate/
 
 ## About
 This is the landing spot for all aspects of the [Cloudspotting on Mars project](https://www.zooniverse.org/projects/marek-slipski/cloudspotting-on-mars
@@ -18,6 +19,12 @@ Send an email to [cloudspottingonmars@gmail.com](mailto:cloudspottingonmars@gmai
 
 ## Blog
 Checkout the project's [blog posts](https://cloudspotting-on-mars.github.io)
+
+## Twitter
+[https://twitter.com/CloudspottingM](https://twitter.com/CloudspottingM)
+
+## Past meetings
+Webinar 1: Friday July 15th at 9am PT/12pm ET ([link to recording coming soon!])
 
 ## Goals
 If you're here, you probably arrived after discovering the Cloudspotting on Mars project on Zooniverse. Our goal here is to create a community around the project -- meeting each other through video conferences, furthering the research by analyzing results, and writing about our experience.
