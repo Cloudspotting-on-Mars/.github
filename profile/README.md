@@ -7,7 +7,7 @@ The project is now live! Check it out at [https://www.zooniverse.org/projects/ma
 Official Zooniverse launch date: **June 28th, 2022**
 
 ## Announcements
-Next Webinar: **Friday August 26th at 9am PT/12pm ET**
+Next Webinar: TBD
 
 New blog post: https://cloudspotting-on-mars.github.io/firstupdate/
 
@@ -26,6 +26,7 @@ Checkout the project's [blog posts](https://cloudspotting-on-mars.github.io)
 
 ## Past meetings
 Webinar 1: Friday July 15th at 9am PT/12pm ET ([link to recording coming soon!])
+Webinar 2: Friday August 26th at 9am PT/12pm ET
 
 ## Goals
 If you're here, you probably arrived after discovering the Cloudspotting on Mars project on Zooniverse. Our goal here is to create a community around the project -- meeting each other through video conferences, furthering the research by analyzing results, and writing about our experience.
