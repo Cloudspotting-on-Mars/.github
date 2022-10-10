@@ -26,9 +26,9 @@ Checkout the project's [blog posts](https://cloudspotting-on-mars.github.io)
 
 ## Webinars
 We try to hold webinars on a 1-2 month timescale to give updates, talk more about the science, and answer lots of questions. You can watch previous webinars on our [Youtube page](https://www.youtube.com/playlist?list=PLKWlaxzCh8uL2UFnRqCcHVhE9b9es0oZB).
-[Webinar 1](https://www.youtube.com/watch?v=wRbf0ap7_8Q&list=PLKWlaxzCh8uL2UFnRqCcHVhE9b9es0oZB&index=1&t=6s): Friday July 15th at 9am PT/12pm ET
-Webinar 2: Friday August 26th at 9am PT/12pm ET
-Webinar 3: TBD
+* [Webinar 1](https://www.youtube.com/watch?v=wRbf0ap7_8Q&list=PLKWlaxzCh8uL2UFnRqCcHVhE9b9es0oZB&index=1&t=6s): Friday July 15th at 9am PT/12pm ET
+* Webinar 2: Friday August 26th at 9am PT/12pm ET
+* Webinar 3: TBD
 
 ## Press
 * Planetary Radio Podcast: Citizen Science: [Join the search for Martian clouds](https://www.planetary.org/planetary-radio/2022-cloudspotting-on-mars)
