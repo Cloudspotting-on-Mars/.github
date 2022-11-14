@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/Cloudspotting-on-Mars.png" width="300">
+<img align="right" src="https://github.com/Cloudspotting-on-Mars.png" width="250">
 
 Welcome Martian cloudspotters!
 
