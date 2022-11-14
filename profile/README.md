@@ -7,21 +7,7 @@ The project is now live! Check it out at [https://www.zooniverse.org/projects/ma
 Official Zooniverse launch date: **June 28th, 2022**
 
 ## Announcements
-Next Webinar: Nov 4th, 8am PT/11am ET
-https://jpl.webex.com/jpl/j.php?MTID=m5444018daa76a3e29e0dfbb0e04d6fa7
-Friday, Nov 4, 2022 8:00 am | 1 hour | (UTC-07:00) Pacific Time (US & Canada)
-Meeting number: 2761 205 8494
-Password: DTm3FjS33tP
-Agenda: Project updates, presentation on annotation aggregation, and Q&A
-
-Join by video system
-Dial 27612058494@jpl.webex.com
-You can also dial 207.182.190.20 and enter your meeting number.
-
-Join by phone
-+1-510-210-8882 USA Toll
-
-New blog post: https://cloudspotting-on-mars.github.io/dillmann/
+Next Webinar: TBD
 
 ## About
 This is the landing spot for all aspects of the [Cloudspotting on Mars project](https://www.zooniverse.org/projects/marek-slipski/cloudspotting-on-mars
