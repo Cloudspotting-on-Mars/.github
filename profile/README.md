@@ -7,22 +7,23 @@ The project is now live! Check it out at [https://www.zooniverse.org/projects/ma
 Official Zooniverse launch date: **June 28th, 2022**
 
 ## Announcements
-Next Webinar: **February 3rd, 2023 at 9amPT/12pmET/5pmGMT**
-https://jpl.webex.com/jpl/j.php?MTID=m7e49e9933224deea41a0658a38c7ac7e
-Friday, Feb 3, 2023 9:00 am | 1 hour | (UTC-08:00) Pacific Time (US & Canada)
-Meeting number: 2762 411 2209
+### Next Webinar: **February 3rd, 2023 at 9amPT/12pmET/5pmGMT**
+https://jpl.webex.com/jpl/j.php?MTID=m7e49e9933224deea41a0658a38c7ac7e \
+Friday, Feb 3, 2023 9:00 am | 1 hour | (UTC-08:00) Pacific Time (US & Canada) \
+Meeting number: 2762 411 2209\
 Password: M4vgENywh53
+
 Agenda: 
 * Complex image walk throughs.
 * Mars Year 29 completed!
 * Mars Year 30 now active.
 * Science results.
 
-Join by video system
-Dial 27624112209@jpl.webex.com
+Join by video system \
+Dial 27624112209@jpl.webex.com \
 You can also dial 207.182.190.20 and enter your meeting number.
 
-Join by phone
+Join by phone \
 +1-510-210-8882 USA Toll
 
 Access code: 276 241 12209
