@@ -55,6 +55,7 @@ We try to hold webinars on a 1-2 month timescale to give updates, talk more abou
 * LAist: [Get Your Head In The (Martian) Clouds — For Science](https://laist.com/news/get-your-head-in-the-martian-clouds-for-science)
 * Astronomi (University of Oslo): [Skyer på Mars](https://www.astronomi.no/?p=4915)
 * New Scientist: [Join the hunt for clouds high up in the Martian atmosphere](https://www.newscientist.com/article/mg25634132-800-join-the-hunt-for-clouds-high-up-in-the-martian-atmosphere/?utm_medium=social&utm_campaign=echobox&utm_source=Twitter#Echobox=1668789036-1)
+* NASA Citizen Science Highlight: [Cloudspotting on Mars Project Extended!](https://science.nasa.gov/science-news/citizenscience/cloudspotting-on-mars-project-extended)
 
 ## Goals
 If you're here, you probably arrived after discovering the Cloudspotting on Mars project on Zooniverse. Our goal here is to create a community around the project -- meeting each other through video conferences, furthering the research by analyzing results, and writing about our experience.
