@@ -29,7 +29,7 @@ We try to hold webinars on a 1-2 month timescale to give updates, talk more abou
 * [Webinar 1](https://www.youtube.com/watch?v=wRbf0ap7_8Q&list=PLKWlaxzCh8uL2UFnRqCcHVhE9b9es0oZB&index=1&t=6s): Friday July 15th at 9am PT/12pm ET
 * [Webinar 2](https://www.youtube.com/watch?v=C6g0DtrIVVw&list=PLKWlaxzCh8uL2UFnRqCcHVhE9b9es0oZB&index=2): Friday August 26th at 9am PT/12pm ET
 * [Webinar 3](https://www.youtube.com/watch?v=KO3iqarNg4A&list=PLKWlaxzCh8uL2UFnRqCcHVhE9b9es0oZB&index=3): Friday Nov 4th, 8am PT/11am ET
-* Webinar 4: Friday Feb 3rd, 9am PT/12pm ET
+* [Webinar 4](https://www.youtube.com/watch?v=vw39JWlbFIA&list=PLKWlaxzCh8uL2UFnRqCcHVhE9b9es0oZB&index=4): Friday Feb 3rd, 9am PT/12pm ET
 
 ## Press
 * Planetary Radio Podcast: Citizen Science: [Join the search for Martian clouds](https://www.planetary.org/planetary-radio/2022-cloudspotting-on-mars)
