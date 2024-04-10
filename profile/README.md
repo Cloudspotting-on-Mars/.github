@@ -7,10 +7,11 @@ The project is live! Check it out at [https://www.zooniverse.org/projects/marek-
 Official Zooniverse launch date: **June 28th, 2022**
 
 ## Announcements
-### Next Webinar: TBD
+### Next Webinar: Friday, April 12, 2024 at 9am Pacific Time
 
 ### MY29 completed on Jan 17th, 2023
-### MY30 data is now active.
+### MY30 completed.
+### MY31 is now active
 
 ## About
 This is the landing spot for all aspects of the [Cloudspotting on Mars project](https://www.zooniverse.org/projects/marek-slipski/cloudspotting-on-mars
@@ -43,6 +44,7 @@ We try to hold webinars on a 1-2 month timescale to give updates, talk more abou
 * New Scientist: [Join the hunt for clouds high up in the Martian atmosphere](https://www.newscientist.com/article/mg25634132-800-join-the-hunt-for-clouds-high-up-in-the-martian-atmosphere/?utm_medium=social&utm_campaign=echobox&utm_source=Twitter#Echobox=1668789036-1)
 * NASA Citizen Science Highlight: [Cloudspotting on Mars Project Extended!](https://science.nasa.gov/science-news/citizenscience/cloudspotting-on-mars-project-extended)
 * Observador: [Citizen Science and Zooniverse](https://observador.pt/opiniao/ciencia-cidada-e-o-zooniverse/?fbclid=IwAR2s9X7QQST6dQ7qh0ffpDbmleqYCQ5l71ne3I7g-YDCp2G7XHmtuNNhaR8)
+* Called out in NASA's Budget Justification to Congress in the President's Budget Request for Fiscal Year 2025 
 
 ## Goals
 If you're here, you probably arrived after discovering the Cloudspotting on Mars project on Zooniverse. Our goal here is to create a community around the project -- meeting each other through video conferences, furthering the research by analyzing results, and writing about our experience.
