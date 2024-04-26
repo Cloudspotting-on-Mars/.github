@@ -7,8 +7,7 @@ The project is live! Check it out at [https://www.zooniverse.org/projects/marek-
 Official Zooniverse launch date: **June 28th, 2022**
 
 ## Announcements
-### Next Webinar: Friday, April 12, 2024 at 9am Pacific Time
-
+### Next Webinar: TBD
 ### MY29 completed on Jan 17th, 2023
 ### MY30 completed.
 ### MY31 is now active
@@ -33,6 +32,7 @@ We try to hold webinars on a 1-2 month timescale to give updates, talk more abou
 * [Webinar 3](https://www.youtube.com/watch?v=KO3iqarNg4A&list=PLKWlaxzCh8uL2UFnRqCcHVhE9b9es0oZB&index=3): Friday Nov 4th, 8am PT/11am ET
 * [Webinar 4](https://www.youtube.com/watch?v=vw39JWlbFIA&list=PLKWlaxzCh8uL2UFnRqCcHVhE9b9es0oZB&index=4): Friday Feb 3rd, 9am PT/12pm ET
 * [Webinar 5](https://www.youtube.com/watch?v=nTZeem1BsEY&list=PLKWlaxzCh8uL2UFnRqCcHVhE9b9es0oZB&index=5): Friday Aug 4th, 9am PT/12pm ET
+* Webinar 6: Friday, April 12, 2024 at 9am PT/12pm ET
 
 ## Press
 * Planetary Radio Podcast: Citizen Science: [Join the search for Martian clouds](https://www.planetary.org/planetary-radio/2022-cloudspotting-on-mars)
