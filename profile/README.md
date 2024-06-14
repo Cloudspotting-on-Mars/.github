@@ -7,7 +7,7 @@ The project is live! Check it out at [https://www.zooniverse.org/projects/marek-
 Official Zooniverse launch date: **June 28th, 2022**
 
 ## Announcements
-### Next Webinar: TBD
+### Next Hangout: Friday, June 21 at 9pm PT/12pm ET, [Register here](https://events.gcc.teams.microsoft.com/event/e11e8629-fba5-46f5-82e2-c022c1b55a06@545921e0-10ef-4398-8713-9832ac563dad)
 ### MY29 completed on Jan 17th, 2023
 ### MY30 completed.
 ### MY31 is now active
@@ -18,6 +18,11 @@ This is the landing spot for all aspects of the [Cloudspotting on Mars project](
 
 ## Join Newsletter
 Send an email to [cloudspottingonmars@gmail.com](mailto:cloudspottingonmars@gmail.com) to get updates sent straight to your inbox.
+
+## Publicartions
+* [The Cloudspotting on Mars citizen science project: Seasonal and spatial cloud distributions observed by the Mars Climate Sounder
+](https://doi.org/10.1016/j.icarus.2023.115777)
+  * Access the data on the [JPL Open Repository](https://doi.org/10.48577/jpl.UXMDDK).
 
 ## Blog
 Checkout the project's [blog posts](https://cloudspotting-on-mars.github.io)
@@ -45,6 +50,9 @@ We try to hold webinars on a 1-2 month timescale to give updates, talk more abou
 * NASA Citizen Science Highlight: [Cloudspotting on Mars Project Extended!](https://science.nasa.gov/science-news/citizenscience/cloudspotting-on-mars-project-extended)
 * Observador: [Citizen Science and Zooniverse](https://observador.pt/opiniao/ciencia-cidada-e-o-zooniverse/?fbclid=IwAR2s9X7QQST6dQ7qh0ffpDbmleqYCQ5l71ne3I7g-YDCp2G7XHmtuNNhaR8)
 * Called out in [NASA's Budget Justification to Congress in the President's Budget Request for Fiscal Year 2025](https://www.nasa.gov/fy-2025-budget-request/)
+
+## Tools
+See the [mcstools](https://github.com/Cloudspotting-on-Mars/mcstools) package to work with some of the MCS data on your own!
 
 ## Goals
 If you're here, you probably arrived after discovering the Cloudspotting on Mars project on Zooniverse. Our goal here is to create a community around the project -- meeting each other through video conferences, furthering the research by analyzing results, and writing about our experience.
