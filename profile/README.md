@@ -32,7 +32,7 @@ We try to hold webinars on a 1-2 month timescale to give updates, talk more abou
 * [Webinar 3](https://www.youtube.com/watch?v=KO3iqarNg4A&list=PLKWlaxzCh8uL2UFnRqCcHVhE9b9es0oZB&index=3): Friday Nov 4th, 8am PT/11am ET
 * [Webinar 4](https://www.youtube.com/watch?v=vw39JWlbFIA&list=PLKWlaxzCh8uL2UFnRqCcHVhE9b9es0oZB&index=4): Friday Feb 3rd, 9am PT/12pm ET
 * [Webinar 5](https://www.youtube.com/watch?v=nTZeem1BsEY&list=PLKWlaxzCh8uL2UFnRqCcHVhE9b9es0oZB&index=5): Friday Aug 4th, 9am PT/12pm ET
-* Webinar 6: Friday, April 12, 2024 at 9am PT/12pm ET
+* [Webinar 6](https://youtu.be/Luuww6mKKxE): Friday, April 12, 2024 at 9am PT/12pm ET
 
 ## Press
 * Planetary Radio Podcast: Citizen Science: [Join the search for Martian clouds](https://www.planetary.org/planetary-radio/2022-cloudspotting-on-mars)
@@ -44,7 +44,7 @@ We try to hold webinars on a 1-2 month timescale to give updates, talk more abou
 * New Scientist: [Join the hunt for clouds high up in the Martian atmosphere](https://www.newscientist.com/article/mg25634132-800-join-the-hunt-for-clouds-high-up-in-the-martian-atmosphere/?utm_medium=social&utm_campaign=echobox&utm_source=Twitter#Echobox=1668789036-1)
 * NASA Citizen Science Highlight: [Cloudspotting on Mars Project Extended!](https://science.nasa.gov/science-news/citizenscience/cloudspotting-on-mars-project-extended)
 * Observador: [Citizen Science and Zooniverse](https://observador.pt/opiniao/ciencia-cidada-e-o-zooniverse/?fbclid=IwAR2s9X7QQST6dQ7qh0ffpDbmleqYCQ5l71ne3I7g-YDCp2G7XHmtuNNhaR8)
-* Called out in NASA's Budget Justification to Congress in the President's Budget Request for Fiscal Year 2025 
+* Called out in [NASA's Budget Justification to Congress in the President's Budget Request for Fiscal Year 2025](https://www.nasa.gov/fy-2025-budget-request/)
 
 ## Goals
 If you're here, you probably arrived after discovering the Cloudspotting on Mars project on Zooniverse. Our goal here is to create a community around the project -- meeting each other through video conferences, furthering the research by analyzing results, and writing about our experience.
