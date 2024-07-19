@@ -7,7 +7,6 @@ The project is live! Check it out at [https://www.zooniverse.org/projects/marek-
 Official Zooniverse launch date: **June 28th, 2022**
 
 ## Announcements
-### Next Hangout: Friday, June 21 at 9pm PT/12pm ET, [Register here](https://events.gcc.teams.microsoft.com/event/e11e8629-fba5-46f5-82e2-c022c1b55a06@545921e0-10ef-4398-8713-9832ac563dad)
 ### MY29 completed on Jan 17th, 2023
 ### MY30 completed.
 ### MY31 is now active
