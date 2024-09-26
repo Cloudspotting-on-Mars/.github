@@ -9,7 +9,7 @@ Official Zooniverse launch date: **June 28th, 2022**
 ## Announcements
 ### MY29 completed on Jan 17th, 2023
 ### MY30 completed.
-### MY31 is now active`
+### MY31 is now active
 
 ## About
 This is the landing spot for all aspects of the [Cloudspotting on Mars project](https://www.zooniverse.org/projects/marek-slipski/cloudspotting-on-mars
