@@ -17,7 +17,7 @@ This is the landing spot for all aspects of the [Cloudspotting on Mars project](
 * Join our Slack to get more involved! For an invite link, please email us at [cloudspottingonmars@gmail.com](mailto:cloudspottingonmars@gmail.com).
 * Send an email to [cloudspottingonmars@gmail.com](mailto:cloudspottingonmars@gmail.com) to get updates sent straight to your inbox.
 
-## Publicartions
+## Publications
 * [The Cloudspotting on Mars citizen science project: Seasonal and spatial cloud distributions observed by the Mars Climate Sounder
 ](https://doi.org/10.1016/j.icarus.2023.115777)
   * Access the data on the [JPL Open Repository](https://doi.org/10.48577/jpl.UXMDDK).
