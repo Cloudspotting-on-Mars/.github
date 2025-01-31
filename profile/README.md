@@ -4,7 +4,7 @@ Welcome Martian cloudspotters!
 
 We currently have two active [Mars Cloud projects on Zooniverse](https://www.zooniverse.org/organizations/marek-slipski/mars-cloud-projects): 
 * [Cloudspotting on Mars](https://www.zooniverse.org/projects/marek-slipski/cloudspotting-on-mars) (launched June 28, 2022)
-* [Clousdpotting on Mars: Shapes](https://www.zooniverse.org/projects/matteocrismani/cloudspotting-on-mars-shapes) (launched 
+* [Clousdpotting on Mars: Shapes](https://www.zooniverse.org/projects/matteocrismani/cloudspotting-on-mars-shapes) (launched Oct 29, 2024)
 
 ## Announcements
 * Cloudspotting on Mars: MY31 is currently active
