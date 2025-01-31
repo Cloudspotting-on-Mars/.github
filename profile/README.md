@@ -2,21 +2,20 @@
 
 Welcome Martian cloudspotters!
 
-The project is live! Check it out at [https://www.zooniverse.org/projects/marek-slipski/cloudspotting-on-mars](https://www.zooniverse.org/projects/marek-slipski/cloudspotting-on-mars)!
-
-Official Zooniverse launch date: **June 28th, 2022**
+We currently have two active [Mars Cloud projects on Zooniverse](https://www.zooniverse.org/organizations/marek-slipski/mars-cloud-projects): 
+* [Cloudspotting on Mars](https://www.zooniverse.org/projects/marek-slipski/cloudspotting-on-mars) (launched June 28, 2022)
+* [Clousdpotting on Mars: Shapes](https://www.zooniverse.org/projects/matteocrismani/cloudspotting-on-mars-shapes) (launched 
 
 ## Announcements
-### MY29 completed on Jan 17th, 2023
-### MY30 completed.
-### MY31 is now active
+* Cloudspotting on Mars: MY31 is currently active
 
 ## About
 This is the landing spot for all aspects of the [Cloudspotting on Mars project](https://www.zooniverse.org/projects/marek-slipski/cloudspotting-on-mars
 ), part of NASA Citizen Science and Zooniverse. We'll update the **Announcements** section with important dates and upcoming events. Join our newsletter to get updates sent to your inbox. See recent write-ups at the [blog](https://cloudspotting-on-mars.github.io). Start or join [a discussion](https://github.com/orgs/Cloudspotting-on-Mars/discussions) about the project. Check out our repositories for analyzing Mars Climate Sounder data and identified clouds. 
 
 ## Join Newsletter
-Send an email to [cloudspottingonmars@gmail.com](mailto:cloudspottingonmars@gmail.com) to get updates sent straight to your inbox.
+* Join our Slack to get more involved! For an invite link, please email us at[cloudspottingonmars@gmail.com](mailto:cloudspottingonmars@gmail.com).
+* Send an email to [cloudspottingonmars@gmail.com](mailto:cloudspottingonmars@gmail.com) to get updates sent straight to your inbox.
 
 ## Publicartions
 * [The Cloudspotting on Mars citizen science project: Seasonal and spatial cloud distributions observed by the Mars Climate Sounder
@@ -50,6 +49,10 @@ We try to hold webinars on a 1-2 month timescale to give updates, talk more abou
 * Observador: [Citizen Science and Zooniverse](https://observador.pt/opiniao/ciencia-cidada-e-o-zooniverse/?fbclid=IwAR2s9X7QQST6dQ7qh0ffpDbmleqYCQ5l71ne3I7g-YDCp2G7XHmtuNNhaR8)
 * Called out in [NASA's Budget Justification to Congress in the President's Budget Request for Fiscal Year 2025](https://www.nasa.gov/fy-2025-budget-request/)
 * NASA Citizen Science Highlight: [First Results](https://science.nasa.gov/get-involved/citizen-science/new-patterns-in-marss-clouds-revealed-by-volunteers/)
+
+## Milestones
+* Participants completed analysis of a full Mars year (MY29) of MCS observations on Jan 17, 2023. (Cloudspotting on Mars)
+* Participants completed a second Mars year (MY30) of MCS observations. (Cloudspotting on Mars)
 
 ## Tools
 See the [mcstools](https://github.com/Cloudspotting-on-Mars/mcstools) package to work with some of the MCS data on your own!
