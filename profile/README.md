@@ -7,6 +7,7 @@ We currently have two active [Mars Cloud projects on Zooniverse](https://www.zoo
 * [Clousdpotting on Mars: Shapes](https://www.zooniverse.org/projects/matteocrismani/cloudspotting-on-mars-shapes) (launched Oct 29, 2024)
 
 ## Announcements
+* Cloudspotting on Mars: Shapes: Twilight data set is currently active.
 * Cloudspotting on Mars: MY31 is currently active
 
 ## About
@@ -56,6 +57,7 @@ We try to hold webinars on a 1-2 month timescale to give updates, talk more abou
 ## Milestones
 * Participants completed analysis of a full Mars year (MY29) of MCS observations on Jan 17, 2023. (Cloudspotting on Mars)
 * Participants completed a second Mars year (MY30) of MCS observations. (Cloudspotting on Mars)
+* Participants classified all IUVS high resolution dayside images on Feb 4, 2025. (Cloudspotting on Mars: Shapes)
 
 ## Tools
 * See the [mcstools](https://github.com/Cloudspotting-on-Mars/mcstools) package to work with some of the MCS data on your own!
