@@ -26,8 +26,8 @@ This is the landing spot for all aspects of the [Cloudspotting on Mars project](
 Checkout the project's [blog posts](https://cloudspotting-on-mars.github.io)
 
 ## Social Media
-[Twitter](https://twitter.com/CloudspottingM)
-[Bluesky](https://bsky.app/profile/cloudspottingonm.bsky.social)
+* [Twitter](https://twitter.com/CloudspottingM)
+* [Bluesky](https://bsky.app/profile/cloudspottingonm.bsky.social)
 
 ## Webinars
 We try to hold webinars on a 1-2 month timescale to give updates, talk more about the science, and answer lots of questions. You can watch previous webinars on our [Youtube page](https://www.youtube.com/playlist?list=PLKWlaxzCh8uL2UFnRqCcHVhE9b9es0oZB).
