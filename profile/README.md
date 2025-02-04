@@ -25,8 +25,9 @@ This is the landing spot for all aspects of the [Cloudspotting on Mars project](
 ## Blog
 Checkout the project's [blog posts](https://cloudspotting-on-mars.github.io)
 
-## Twitter
-[https://twitter.com/CloudspottingM](https://twitter.com/CloudspottingM)
+## Social Media
+[Twitter](https://twitter.com/CloudspottingM)
+[Bluesky](https://bsky.app/profile/cloudspottingonm.bsky.social)
 
 ## Webinars
 We try to hold webinars on a 1-2 month timescale to give updates, talk more about the science, and answer lots of questions. You can watch previous webinars on our [Youtube page](https://www.youtube.com/playlist?list=PLKWlaxzCh8uL2UFnRqCcHVhE9b9es0oZB).
@@ -38,6 +39,8 @@ We try to hold webinars on a 1-2 month timescale to give updates, talk more abou
 * [Webinar 6](https://youtu.be/Luuww6mKKxE): Friday, April 12, 2024 at 9am PT/12pm ET
 
 ## Press
+* Forbes: [NASA Wants You To Stare At Clouds](https://www.forbes.com/sites/amandakooser/2024/10/31/nasa-wants-you-to-stare-at-clouds-on-mars/)
+* NASA Citizen Science Highlight: [New Project Invites You To Do Martian Cloud Science with NASA](https://science.nasa.gov/get-involved/citizen-science/new-project-invites-you-to-do-martian-cloud-science-with-nasa/)
 * Planetary Radio Podcast: Citizen Science: [Join the search for Martian clouds](https://www.planetary.org/planetary-radio/2022-cloudspotting-on-mars)
 * WIRED: [NASA Is Crowdsourcing Cloud Research—on Mars](https://www.wired.com/story/nasa-is-crowdsourcing-cloud-research-on-mars/)
 * NPR Morning Edition: [NASA scientists need your help finding clouds on Mars](https://www.npr.org/2022/08/09/1116455607/nasa-scientists-need-your-help-finding-clouds-on-mars)
@@ -55,7 +58,8 @@ We try to hold webinars on a 1-2 month timescale to give updates, talk more abou
 * Participants completed a second Mars year (MY30) of MCS observations. (Cloudspotting on Mars)
 
 ## Tools
-See the [mcstools](https://github.com/Cloudspotting-on-Mars/mcstools) package to work with some of the MCS data on your own!
+* See the [mcstools](https://github.com/Cloudspotting-on-Mars/mcstools) package to work with some of the MCS data on your own!
+* Explore the [PyUVS code](https://github.com/jaycessna/PyUVS) to produce IUVS Disk images like those in the Shapes project
 
 ## Goals
 If you're here, you probably arrived after discovering the Cloudspotting on Mars project on Zooniverse. Our goal here is to create a community around the project -- meeting each other through video conferences, furthering the research by analyzing results, and writing about our experience.
